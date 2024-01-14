@@ -1,0 +1,4 @@
+# this is an example comment line!
+abc:def;This is an explanation!
+un baguette:a baguette;'un baguette' means a baguette in french.
+this:has:multiple:possible:translations;for loops are magic!
